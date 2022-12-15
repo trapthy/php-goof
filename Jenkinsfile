@@ -22,7 +22,6 @@ pipeline {
         //     steps{ 
         //         script{
         //             sh 'pwd'
-        //             sh 'ls -ltr'
                    
         //             sh 'python3 main.py'
         //         }
